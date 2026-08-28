@@ -26,18 +26,20 @@
 <details>
 
 <summary><b>Season 1 🛫</b></summary>
-  
-### Organizer
 
-| <img src="https://github.com/kady-x.png" width="150px" />                        |
-| :------------------------------------------------------------------------------: |
-|                      [Mohamed ElKady](https://github.com/kady-x)                 |
+### Organizers
 
-### Core
+| Organizer | Co-Organizer |
+| :---: | :---: |
+| <img src="https://github.com/kady-x.png" width="150px" /> | <img src="https://github.com/rafiqharhash.png" width="150px" /> |
+| [Mohamed ElKady](https://github.com/kady-x) | [Rafiq Harhash](https://github.com/rafiqharhash) |
 
-| <img src="https://github.com/Adham-Hatem.png" width="150px" />                        |
-| :------------------------------------------------------------------------------: |
-|                      [Adham Hatem](https://github.com/Adham-Hatem)                 |
+### Core Team
+
+| Media & Tech Lead | PR Lead |
+| :---: | :---: |
+| <img src="https://github.com/Adham-Hatem.png" width="150px" /> | <img src="https://github.com/Ahmed-codes1.png" width="150px" /> |
+| [Adham Hatem](https://github.com/Adham-Hatem) | [Ahmed Bahgat](https://github.com/Ahmed-codes1) |
 
 <details>
 
