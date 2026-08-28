@@ -21,8 +21,11 @@
 
 <br/><br/>
 
+## 2026-2027
+
 <details>
-<summary><b>26-27 Team 🛫</b></summary>
+
+<summary><b>Season 1 🛫</b></summary>
   
 ### Organizer
 
@@ -31,6 +34,10 @@
 |                      [Mohamed ElKady](https://github.com/kady-x)                 |
 
 ### Core
+
+| <img src="https://github.com/Adham-Hatem.png" width="150px" />                        |
+| :------------------------------------------------------------------------------: |
+|                      [Adham Hatem](https://github.com/Adham-Hatem)                 |
 
 <details>
 
