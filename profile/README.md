@@ -1,14 +1,12 @@
 <div align="center">
   <!-- <a href="https://gdgoc.aiu.edu.eg/"> -->
     <img 
-      src="https://github.com/GDGoC-AIU/.github/blob/main/assets/gdgoc-aiu-logo.png?raw=true" 
+      src="https://github.com/GDGoC-AIU/.github/blob/main/assets/gdgoc-logo-aiu2.png?raw=true" 
       alt="GDGoC AIU Cover" 
-      width="500"
+      width="600"
     />
   <!-- </a> -->
 </div>
-
-<br/>
 
 <!-- <div align="center">
   <a href="https://gdgoc.aiu.edu.eg/">
