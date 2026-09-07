@@ -40,12 +40,17 @@
   | [Adham Hatem](https://github.com/Adham-Hatem) | [Ahmed Bahgat](https://github.com/Ahmed-codes1) |
 
   <details>
-    <summary>Crew</summary>
+    <summary><kbd>C</kbd><kbd>R</kbd><kbd>E</kbd><kbd>W</kbd></summary><br>
   </details>
   
   <details>
-    <summary><b>Member</b></summary>
+    <summary><kbd>M</kbd><kbd>E</kbd><kbd>M</kbd><kbd>B</kbd><kbd>E</kbd><kbd>R</kbd><kbd>S</kbd></summary><br>
   </details>
+  
+  <details>
+    <summary><kbd>C</kbd><kbd>O</kbd><kbd>N</kbd><kbd>T</kbd><kbd>R</kbd><kbd>I</kbd><kbd>B</kbd><kbd>U</kbd><kbd>T</kbd><kbd>O</kbd><kbd>R</kbd><kbd>S</kbd></summary><br>
+  </details>
+  
 
 </details>
 
