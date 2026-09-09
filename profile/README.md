@@ -49,8 +49,12 @@
   
   <details>
     <summary><kbd>C</kbd><kbd>O</kbd><kbd>N</kbd><kbd>T</kbd><kbd>R</kbd><kbd>I</kbd><kbd>B</kbd><kbd>U</kbd><kbd>T</kbd><kbd>O</kbd><kbd>R</kbd><kbd>S</kbd></summary><br>
+
+  | <img src="https://github.com/vhmns14.png" width="150px" /> |
+  | :---: |
+  | [vahmi sofyan](https://github.com/vhmns14) |
+    
   </details>
-  
 
 </details>
 
