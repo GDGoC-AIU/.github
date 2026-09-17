@@ -50,12 +50,11 @@
   <details>
     <summary><kbd>C</kbd><kbd>O</kbd><kbd>N</kbd><kbd>T</kbd><kbd>R</kbd><kbd>I</kbd><kbd>B</kbd><kbd>U</kbd><kbd>T</kbd><kbd>O</kbd><kbd>R</kbd><kbd>S</kbd></summary><br>
 
-  | <img src="https://github.com/vhmns14.png" width="150px" /> |
-  | :---: |
-  | [vahmi sofyan](https://github.com/vhmns14) |
+  | <img src="https://github.com/vhmns14.png" width="150px" /> | <img src="https://github.com/aravindrockzs.png" width="150px" /> |
+  | :---: | :---: |
+  | [vahmi sofyan](https://github.com/vhmns14) | [Aravind B](https://github.com/aravindrockzs) |
     
   </details>
-
 </details>
 
 ###
